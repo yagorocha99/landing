@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+}
+
+.header{
+    color: #F9FAF8;
+    background-color: #1F2937;
+}
+
+.header .logo{
+    font-size: 24px;
+}
+
+.header img{
+    width: 50px;
+    height: auto;
+}
+
+.header .mtext{
+    font-size: 48px;
+}
+
+.header .stext{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header button{
+    background-color: #3882F6;
+    color: white;
+}
