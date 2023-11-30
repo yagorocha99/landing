@@ -1,31 +1,31 @@
 .container{
     display: flex;
+    flex-direction: column;
+    /*margin: -10px;*/
 }
 
-.header{
-    color: #F9FAF8;
+.nav{
+    display: flex;
     background-color: #1F2937;
+    color: #F9FaF8;
+    align-items: center;
+    padding: 20px 0px 0px 200px;
 }
 
-.header .logo{
-    font-size: 24px;
-}
-
-.header img{
-    width: 50px;
+.box .logo img{
+    width: 70px;
     height: auto;
 }
 
-.header .mtext{
-    font-size: 48px;
+.box .link{
+    display: flex;
+    margin-left:auto;
+    padding-right: 100px;
 }
 
-.header .stext{
+.box .link a{
+    text-decoration: none;
+    color: #F9FaF8;
     font-size: 18px;
-    color: #E5E7EB;
-}
-
-.header button{
-    background-color: #3882F6;
-    color: white;
+    padding: 10px;
 }
