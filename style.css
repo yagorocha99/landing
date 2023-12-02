@@ -22,7 +22,9 @@
 
 .box .logo img {
     padding: 1vw;
-    width: 10vw;
+    margin-left: -5vw;
+    margin-top: -1vw;
+    width: 4vw;
     height: auto;
 }
 
@@ -36,7 +38,7 @@
 .box .link a {
     text-decoration: none;
     color: #F9FaF8;
-    font-size: 2vw;
+    font-size: 1.2rem;
     padding: 1vw;
 }
 /* Fim menu */
@@ -49,37 +51,36 @@
 }
 
 .main {
-    padding-left: 10vw;
-    margin-left: 20vw;
+    padding-left: 1vw;
+    margin-left: 18vw;
 }
 
 .main h1 {
-    margin-top: 5vw;
-    font-size: 4vw;
+    margin-top: 1vw;
+    font-size: 3.2rem;
     font-weight: bolder;
     color: white;
-    max-width: 20vw;
+    max-width: 25vw;
 }
 
 .main p {
     color: lightgray;
-    font-size: 1.5vw;
-    max-width: 30vw;
+    font-size: 1rem;
+    max-width: 25vw;
 }
 
 .main button {
-    /* Adicione estilos conforme necessário */
 }
 
 .image {
     display: flex;
-    padding-bottom: 10vw;
-    margin-left: 10vw;
+    margin-left: 9vw;
+    margin-top: -2vw;
+    margin-bottom: 6vw;
 }
 
 .image img {
-    width: 40vw;
-    height: auto;
+    height: 22vw;
     border-radius: 2.5vw;
 }
 /* Fim hero */
