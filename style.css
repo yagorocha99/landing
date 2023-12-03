@@ -30,7 +30,8 @@
 
 .box .link {
     display: flex;
-    margin-left: auto;
+    margin-top: -3vw;
+    margin-left: 60vw;
     padding-right: 10vw;
     padding-left: 1vw;
 }
