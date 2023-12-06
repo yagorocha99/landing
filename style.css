@@ -52,7 +52,7 @@
 }
 
 .main {
-    margin-left: 18vw;
+    margin-left: 17vw;
 }
 
 .main h1 {
@@ -70,6 +70,13 @@
 }
 
 .main button {
+    background-color: #3882F6;
+    color: white;
+    font-weight: bolder;
+    font-size: 1rem;
+    border-radius: 8px;
+    margin-top: 1vh;
+    padding: 1vh 4vh 1vh 4vh;
 }
 
 .image {
@@ -84,3 +91,31 @@
     border-radius: 2.5vw;
 }
 /* Fim hero */
+
+/* Inicio Sub hero */
+
+.submain{
+    text-align: center;
+}
+
+.title{
+    margin-top: 2vw;
+}
+.title h1{
+    color:  #1f2937;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.subimages{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.subimages img{
+    border:  solid 5px;
+    border-radius: 8px;
+    border-color: #3882F6;
+    width: 13vw;
+}
