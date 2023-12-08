@@ -149,3 +149,25 @@
     font-weight: bold;
     text-align: right;
 }
+
+/* Fim Quote*/
+
+/* Sign */
+
+.signup{
+    text-align: center;
+}
+
+.center{
+    justify-content: space-evenly;
+    display: flex;
+    padding: 20px;
+    margin: 5vw 20vw 5vw 20vw;
+    background-color: #3882F6;
+}
+
+.center .c1{
+    text-align: justify;
+}
+
+/* Fim Sign*/
