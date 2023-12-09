@@ -17,13 +17,16 @@
     background-color: #1F2937;
     color: #F9FaF8;
     align-items: center;
-    padding: 2vw 0 0 10vw;
+    padding: 2vw 0 0 9vw;
+}
+
+.box .logo{
+    margin-left: -1vw;
+    margin-top: -1vw;
 }
 
 .box .logo img {
     padding: 1vw;
-    margin-left: -2vw;
-    margin-top: -1vw;
     width: 4vw;
     height: auto;
 }
@@ -96,6 +99,7 @@
 
 .submain{
     text-align: center;
+    padding: 8vw;
 }
 
 .title{
@@ -124,4 +128,24 @@
 .subimages p{
     margin-top: 0.7vw;
     max-width: 13vw;
+}
+
+/* Fim subhero */
+
+/* Quote */
+
+.quote{
+    background-color: #E5E7EB;
+    padding: 10vw;
+}
+
+.qmessage{
+    font-size: 2rem;
+    font-style: italic;
+}
+
+.autor{
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: right;
 }
