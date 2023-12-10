@@ -161,13 +161,32 @@
 .center{
     justify-content: space-evenly;
     display: flex;
-    padding: 20px;
+    padding: 2vw 0vw 2vw 0vw;
     margin: 5vw 20vw 5vw 20vw;
     background-color: #3882F6;
+    border-radius: 0.6vw;
 }
 
 .center .c1{
     text-align: justify;
+    color: white;
 }
 
-/* Fim Sign*/
+.center .c2{
+    margin: -0.3vw -1vw 1vw 1vw;
+    padding: 1vw 2vw 0vw 2vw;
+}
+
+.center button{
+    background-color: #3882F6;
+    color: white;
+    font-weight: bolder;
+    font-size: 1rem;
+    border-radius: 0.3vw;
+    border-color: white;
+    padding: 0.2vw 1.5vw 0.3vw 1.5vw;
+}
+
+/* Fim Sign */
+
+/* Inicio Rodape */
