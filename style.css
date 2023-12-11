@@ -189,4 +189,13 @@
 
 /* Fim Sign */
 
-/* Inicio Rodape */
+/* Inicio Footer */
+
+.footer{
+    background-color: #1F2937;
+    color: white;
+    padding: 2vw;
+    text-align: center;
+}
+
+/* Fim Footer */
